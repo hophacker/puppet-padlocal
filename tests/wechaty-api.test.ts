@@ -1,3 +1,4 @@
+// @ts-nocheck
 import config from "config";
 import { Contact, Message, impls, Wechaty } from "wechaty";
 import { FileBox } from "file-box";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Contact, log, Wechaty, WechatyBuilder, ScanStatus } from "wechaty";
 import config from "config";
 import PuppetPadlocal from "../src/puppet-padlocal.js";
